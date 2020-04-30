@@ -1,0 +1,104 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dianet.synergy-education.kz" resolutions="1x" timestamp="1582617067936">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="404407535" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="circe-light.woff" crc="899877"/>
+    <file name="circe-light.eot" crc="397295048"/>
+    <file name="circe-light.svg" crc="295116577"/>
+    <file name="8439.woff" crc="3925499161"/>
+    <file name="8439.eot" crc="480164474"/>
+    <file name="8439.svg" crc="53939418"/>
+    <file name="circe-bold.woff" crc="3867976503"/>
+    <file name="circe-bold.eot" crc="4074525621"/>
+    <file name="circe-bold.svg" crc="4203481061"/>
+    <file name="circe-extrabold.woff" crc="122178480"/>
+    <file name="circe-extrabold.eot" crc="351850215"/>
+    <file name="circe-extrabold.svg" crc="161236976"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u194.php" crc="532898707" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="form-u4555.php" crc="297626902" ref="index"/>
+    <file name="form-u2687.php" crc="4014063005" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="шаблон-a-favicon.ico" crc="285209039" ref="index"/>
+    <file name="bg-1.jpg" crc="3817873850" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-white.svg" crc="488637628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo white_poster_.png" crc="4236216573" ref="index"/>
+    <file name="121.svg" crc="4014857515" ref="index"/>
+    <file name="121_poster_u418.png" crc="332393017" ref="index"/>
+    <file name="play-arrow-(1).svg" crc="297319758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play-arrow-(1)_poster_.png" crc="495310797" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="111.svg" crc="3762313595" ref="index"/>
+    <file name="111_poster_u1981.png" crc="345099285" ref="index"/>
+    <file name="7545238ded7d49c7c11fa1a41945e4e4.jpg" crc="4001070923" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="upload-ce1576db-4822.png" crc="491106321" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="989t743.jpg" crc="439293016" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tgh.jpg" crc="3770002777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="876543.jpg" crc="449834042" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-(1).svg" crc="478194224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder (1)_poster_.png" crc="182618176" ref="index"/>
+    <file name="mail.svg" crc="320732496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail_poster_.png" crc="338258877" ref="index"/>
+    <file name="phone-call.svg" crc="71832352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-call_poster_.png" crc="3882935721" ref="index"/>
+    <file name="clock.svg" crc="4287505499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clock_poster_.png" crc="4141995223" ref="index"/>
+    <file name="entypo_d83d(0)_24.png" crc="452228673" ref="index">
+      <caption webpage="index" alt="Ваше имя"/>
+      <caption webpage="index" alt="Ваше имя"/>
+      <caption webpage="index" alt="Ваше имя"/>
+      <caption webpage="index" alt="Ваше имя"/>
+      <caption webpage="index" alt="Ваше имя"/>
+    </file>
+    <file name="entypo_d83d(1)_24.png" crc="3771047223" ref="index">
+      <caption webpage="index" alt="Ваш телефон"/>
+      <caption webpage="index" alt="Ваш телефон"/>
+      <caption webpage="index" alt="Ваш телефон"/>
+      <caption webpage="index" alt="Ваш телефон"/>
+      <caption webpage="index" alt="Ваш телефон"/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3781373264" seo="true" mt="1582617041310" redirect="true"/>
+</manifest>
